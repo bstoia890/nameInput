@@ -1,1 +1,2 @@
-# nameInput
+# synchronousBallMovement
+Ball moving synchronously
